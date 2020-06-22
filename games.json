@@ -10,5 +10,10 @@
     "id": "101",
     "title": "dota2",
     "genre": "Multiplayer online battle arena"
+  },
+  {
+    "id": "103",
+    "title": "Fortnite",
+    "genre": "FPS"
   }
 ]
